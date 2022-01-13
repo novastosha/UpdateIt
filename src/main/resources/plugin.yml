@@ -1,0 +1,3 @@
+main: dev.nova.updateit.plugin.UpdateItPlugin
+version: 1.0-INDEV
+name: UpdateIt
